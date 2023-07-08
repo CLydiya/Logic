@@ -18,4 +18,8 @@ Example:
 s: 6 is divisible by 3, and this sentence is false. 
 the sentence s is a compound statement because it is a combination of statement p and q.
 # Truth vale
-Coming soon ... 
+The logical statements have two possible values which are true or false. It is denoted by T or 1 if the statement is true, and F or 0 if the statement is false. 
+<h1>Connective</h1> 
+<p>When we want to combine two or more statements together, we use Connective. The connective are negation, conjunction, disjunction, implication, and equivalence.</p>
+<h2>Negation</h2>
+<p>The negation of the statement &#112 is not true and denoted by &not&#112. Coming soon...</p>
