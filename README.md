@@ -25,7 +25,7 @@ The logical statements have two possible values which are true or false. It is d
 <p>The negation of the statement &#112 is not true and denoted by &not&#112. The truth value of the negation of a proposition depends on the truth value of the original proposition. If the original proposition is true, then its negation is false, and vice versa.
 
 For example:
-- If $\(P\)$ is "It is raining," then $\(\neg P\)$ is "It is not raining."
-- If $\(Q\)$ is "The cat is on the mat," then $\(\neg Q\)$ is "The cat is not on the mat."
+- If p is "It is raining," then &not&#112 is "It is not raining."
+- If q is "The cat is on the mat," then &not&#113 is "The cat is not on the mat."
 
-So, the truth value of $\(\neg P\)$ or $\(\neg Q\)$ is the opposite of the truth value of $\(P\)$ or $\(Q\)$, respectively.</p>
+So, the truth value of &not&#112 or &not&#113 is the opposite of the truth value of &not&#112 or &not&#113, respectively.</p>
