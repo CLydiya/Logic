@@ -22,10 +22,10 @@ The logical statements have two possible values which are true or false. It is d
 <h1>Connective</h1> 
 <p>When we want to combine two or more statements together, we use Connective. The connective are negation, conjunction, disjunction, implication, and equivalence.</p>
 <h2>Negation</h2>
-<p>The negation of the statement &#112 is not true and denoted by &not&#112. The truth value of the negation (\(\neg\)) of a proposition depends on the truth value of the original proposition. If the original proposition is true, then its negation is false, and vice versa.
+<p>The negation of the statement &#112 is not true and denoted by &not&#112. The truth value of the negation of a proposition depends on the truth value of the original proposition. If the original proposition is true, then its negation is false, and vice versa.
 
 For example:
-- If \(P\) is "It is raining," then \(\neg P\) is "It is not raining."
-- If \(Q\) is "The cat is on the mat," then \(\neg Q\) is "The cat is not on the mat."
+- If $\(P\)$ is "It is raining," then $\(\neg P\)$ is "It is not raining."
+- If $\(Q\)$ is "The cat is on the mat," then $\(\neg Q\)$ is "The cat is not on the mat."
 
-So, the truth value of \(\neg P\) or \(\neg Q\) is the opposite of the truth value of \(P\) or \(Q\), respectively.</p>
+So, the truth value of $\(\neg P\)$ or $\(\neg Q\)$ is the opposite of the truth value of $\(P\)$ or $\(Q\)$, respectively.</p>
